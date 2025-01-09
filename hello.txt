@@ -6,5 +6,6 @@ void main(void)
 	int a = 0;
 	int *p = &a;
 	int **q = &q; 
+	int qwqwq
 	std::cout<<"helllo"<<std::endl;
 }

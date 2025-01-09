@@ -1,9 +1,6 @@
-hello git66666666
-hello git44444444
-hello git33333333
-hello git
-hello git hellllo
-hello git qwq
-hello git master-test
-hello git444444
-hello git hot-test
+#incllude <iostream>
+
+void main(void)
+{
+	std::cout<<"helllo"<<std::endl;
+}

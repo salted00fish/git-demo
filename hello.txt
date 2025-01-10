@@ -2,15 +2,9 @@
 
 void main(void)
 {
-	qwq
-	123456
 	unsignd char ch;
-	45678
 	int a = 0;
 	int *p = &a;
 	int **q = &q; 
-	int qwqwq
-	qaodiuahdsa
-	kkkkkk
 	std::cout<<"helllo"<<std::endl;
 }

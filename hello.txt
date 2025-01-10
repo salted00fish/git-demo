@@ -9,5 +9,6 @@ void main(void)
 	int **q = &q; 
 	int qwqwq
 	qaodiuahdsa
+	kkkkkk
 	std::cout<<"helllo"<<std::endl;
 }

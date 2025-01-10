@@ -1,4 +1,4 @@
-#incllude <iostream>
+i#incllude <iostream>
 
 void main(void)
 {
@@ -8,4 +8,6 @@ void main(void)
 	int **q = &q; 
 	std::cout<<"helllo"<<std::endl;
 	std::cout<<*p<<std::endl;
+	std::cout<<**q<<std::endl;
+
 }

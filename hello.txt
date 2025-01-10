@@ -1,7 +1,7 @@
 #incllude <iostream>
 
 void main(void)
-{	
+{	45678
 	int a = 0;
 	int *p = &a;
 	int **q = &q; 

@@ -7,6 +7,7 @@ void main(void)
 	int *p = &a;
 	//**
 	//hello
+//helllo
 	int **q = &q; 
 	std::cout<<"helllo"<<std::endl;
 	std::cout<<*p<<std::endl;
